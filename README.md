@@ -6,20 +6,24 @@ COCO dataset is used for training.
 
 Real time detection can be use via command prompt or GUI.
 
-<table class="user__interface__tbl">
+<table>
   <tbody>
 	<tr>
 		<th><strong>A USA Real-Time Road Detection</strong></th>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>		
+	</tr>
+	<tr>
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
-	<tr class="uk_us_tr">
-		<td style="width: 50%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
+	<tr>
 		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
 	</tr>
 	<tr>
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
-	<tr class="webcam_tr">
+	<tr>
 		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
