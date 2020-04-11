@@ -14,7 +14,7 @@ Real time detection can be use via command prompt or GUI.
 	</tr>
 	<tr>
 		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
-		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
+		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
 	</tr>
 	<tr>
 		<th><strong>A Real-Time Webcam Detection</strong></th>
