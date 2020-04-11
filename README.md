@@ -8,22 +8,22 @@ Real time detection can be use via command prompt or GUI.
 
 <table>
   <tbody>
-	<tr>
+	<tr align="center">
 		<th><strong>A USA Real-Time Road Detection</strong></th>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>		
 	</tr>
-	<tr>
+	<tr align="center">
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
 	<tr>
 		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
 	</tr>
-	<tr>
+	<tr align="center">
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
