@@ -13,14 +13,14 @@ Real time detection can be use via command prompt or GUI.
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
-		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
+		<td style="width: 50%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
+		<td style="width: 50%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
 	</tr>
 	<tr>
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
+		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
 </table>
@@ -81,3 +81,6 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 
 #### A UK Real-Time Road Detection
 <img src="https://user-images.githubusercontent.com/45601530/79018201-aad5d600-7b8c-11ea-9844-b93a98fd0e00.jpg">
+
+#### A Real-Time Webcam Detection
+<img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg">
