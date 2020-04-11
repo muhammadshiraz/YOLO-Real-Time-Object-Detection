@@ -1,3 +1,12 @@
+<style>
+.user__interface__tbl .uk_us_tr td {
+	width: 50%
+}
+.user__interface__tbl .webcam_tr td {
+	width: 100%
+}
+</style>
+
 ## YOLO Real Time Object Detection
 
 This project implements a real time object detection via video, webcam and image detection using YOLO algorithm. YOLO is a object detection algorithm which stand for You Only Look Once. I've implemented the algorithm from scratch in Python using pre-trained weights. YOLOv3 was published in research paper: <a href="https://pjreddie.com/media/files/papers/YOLOv3.pdf" rel="nofollow">YOLOv3: An Incremental Improvement: Joseph Redmon, Ali Farhadi</a> It's originally implemented in <a href="https://github.com/pjreddie/darknet">YOLOv3</a>.
@@ -6,21 +15,21 @@ COCO dataset is used for training.
 
 Real time detection can be use via command prompt or GUI.
 
-<table>
+<table class="user__interface__tbl">
   <tbody>
 	<tr>
 		<th><strong>A USA Real-Time Road Detection</strong></th>
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
-	<tr>
-		<td style="width: 50%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
-		<td style="width: 50%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
+	<tr class="uk_us_tr">
+		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector1.gif"></td>
+		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/detector2.gif"></td>
 	</tr>
 	<tr>
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
-	<tr>
-		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
+	<tr class="webcam_tr">
+		<td><img src="https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
 </table>
